@@ -32,7 +32,16 @@ I'm Hammad, I am a Junior Web Developer focused on **MERN Stack**, and always op
 
 > ...most of the projects were deployed on free hosting, please be patient if they take a little time
 
+<summary>:zap:Solo Projects</summary>
+
 - For Expats in Germany | [FrontEnd-Repo](https://github.com/HammadAli-WD/expatsGermanyFE) | [BackEnd-Repo](https://github.com/HammadAli-WD/expatsGermany-BE) | [Live](https://expatsingermany.herokuapp.com/).
+
+<summary>:zap:Group Projects During Strive School...</summary>
+
+
+- fakeLinkedIn | [BackEnd-Repo with Team A](https://github.com/Yaremko95/strive-linkedIn-react) | [BackEnd-Repo with Team B](https://github.com/klevinb/LinkedinBackend_TBW).
+- [BackEnd-Repo with Team C](https://github.com/LaLe1993/Linkedin-module-7-and-8-build-week-BE) | 
+[FrontEnd-Repo with Team C](https://github.com/LaLe1993/Linkedin-module-7-and-8-build-week-FE)| [Live](https://linkedinteamfe.herokuapp.com/).
 
 <details>
   <summary>:zap: Most Used Languages</summary>
