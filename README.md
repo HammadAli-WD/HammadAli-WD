@@ -35,6 +35,7 @@ I'm Hammad, I am a Junior Web Developer focused on **MERN Stack**, and always op
 <summary>:zap:Solo Projects</summary>
 
 - For Expats in Germany | [FrontEnd-Repo](https://github.com/HammadAli-WD/expatsGermanyFE) | [BackEnd-Repo](https://github.com/HammadAli-WD/expatsGermany-BE) | [Live](https://expatsingermany.herokuapp.com/).
+- Student Records App | [FrontEnd-Repo](https://github.com/HammadAli-WD/StudentsProjects_FE) | [BackEnd-Repo](https://github.com/HammadAli-WD/StudentsProjects_BE).
 
 <summary>:zap:Group Projects During Strive School...</summary>
 
